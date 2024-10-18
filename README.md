@@ -26,7 +26,7 @@ A multimodal large language model (MLLM) may struggle with answering visual-base
   - `matching_graph`: The core code of our proposal, focusing on the matching graph.
   - `preprocess`: Includes methods to construct the `NewsPersonQA` benchmark from the [GoodNews](https://github.com/furkanbiten/GoodNews) dataset.
   - `tool`: Provides utility functions for file handling, image processing, and other tasks.
-  - `main.py`: The pipeline of the **MAR** system.
+  - `main.py`: The pipeline of the **MAR**.
   - `qa.json`: Contains the QA pairs.
 
 - `NewsPersonQA`: Our proposed benchmark dataset. The original data, feature encodings, graph results, and retrieval results can be accessed from [NewsPersonQA](https://pan.baidu.com/s/1s661H9gUEYsqI7PiNxs0PQ?pwd=u759) (**Password:** u759).
