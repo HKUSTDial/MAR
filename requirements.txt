@@ -1,0 +1,12 @@
+clip @ git+https://github.com/openai/CLIP.git
+deepface==0.0.79
+torch==2.3.0
+torchaudio==0.12.0
+torchvision==0.18.0
+openai==0.28.0
+transformers==4.35.0
+requests==2.32.0
+numpy==1.24.3
+pandas==1.5.3
+pillow==10.3.0
+spacy==3.7.2
