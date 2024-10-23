@@ -43,7 +43,7 @@ A multimodal large language model (MLLM) may struggle with answering visual-base
 
 ### Attention
 1. Due to the large size and multimodal nature of the NewsPersonQA dataset, please download it from the cloud drive: [link](https://pan.baidu.com/s/1s661H9gUEYsqI7PiNxs0PQ?pwd=u759) (**Password:** u759), and replace the files in the project. In addition to the original dataset, the zip package downloaded from the cloud also includes the results retrieved using a matching graph and the generated prompts for input into MLLM (qa_with_prompt.json).
-3. To help readers clearly and intuitively understand the process of retrieval and graph node linking through similarity matching, our open-source code performs operations on the Faiss database (including storage and retrieval based on a flat index) directly using torch.cosine_similarity. This is similar to the principle of using Faiss flat index retrieval as described in the article.
+2. To help readers clearly and intuitively understand the process of retrieval and graph node linking through similarity matching, our open-source code directly uses torch.cosine_similarity to replace the operations described in our paper that were performed on the Faiss database (including storage and retrieval based on a flat index). This approach aligns with the principle of using Faiss flat index retrieval as described in the paper.
 
 ## 🛠️Environment Setup
 To set up the environment for MAR, ensure you have Anaconda installed and then follow these steps:
