@@ -61,4 +61,14 @@ pip install -r requirements.txt
 ## ✏️Citation
 
 If you find our work useful or inspiring, please kindly cite:
-(The official version paper will be published soon.)
+
+```
+@inproceedings{
+zhang2024mar,
+title={{MAR}: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering},
+author={Zhang, Zhengxuan and Wu, Yin and Luo Yuyu and Tang, Nan},
+booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
+year={2024},
+url={https://openreview.net/forum?id=hW9DjJLLkJ}
+}
+```
