@@ -4,7 +4,7 @@
 
 The official version paper will be published soon.
 
-![MAR Overview](./assets/model.png)
+![MAR Overview](./assets/model.jpg)
 
 
 ## 🔥 News
