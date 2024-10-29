@@ -4,12 +4,16 @@
 
 The official version paper will be published soon.
 
+![MAR Overview](./assets/model.png)
+
+
 ## 🔥 News
 [24/9/20] 🎊 Our paper has been accepted by EMNLP 2024 (main).
 
 ## 📖 Abstract
 
 A multimodal large language model (MLLM) may struggle with answering visual-based (personal) entity questions (VEQA), such as “who is A?” or “who is A that B is talking to?” for various reasons, e.g., the absence of the name of A in the caption or the inability of MLLMs to recognize A, particularly for less common entities. Furthermore, even if the MLLM can identify A, it may refrain from answering due to privacy concerns. In this paper, we introduce a novel method called Matching-Augmented Reasoning (MAR) to enhance VEQA. Given a collection of visual objects with captions, MAR preprocesses each object individually, identifying faces, names, and their alignments within the object. It encodes the information and stores their vector representations in the database. When handling VEQA, MAR retrieves matching faces and names and organizes these entities into a matching graph. MAR then derives the answer to the query by reasoning over this matching graph. Extensive experiments show that MAR significantly improves VEQA compared with the state-of-the-art methods using MLLMs.
+
 
 ## 📜 Contribution
 
