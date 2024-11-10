@@ -2,7 +2,6 @@
 
 [📃[Paper Link]](https://aclanthology.org/2024.emnlp-main.91.pdf)
 
-The official version paper will be published soon.
 
 ![MAR Overview](./assets/model.jpg)
 
