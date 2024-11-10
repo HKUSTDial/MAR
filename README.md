@@ -1,6 +1,6 @@
 # MAR: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering
 
-[📃[Paper Link] (Review Version)](https://openreview.net/pdf?id=1Mikiy7Fzo)
+[📃[Paper Link]](https://aclanthology.org/2024.emnlp-main.91.pdf)
 
 The official version paper will be published soon.
 
@@ -71,8 +71,8 @@ If you find our work useful or inspiring, please kindly cite:
 zhang2024mar,
 title={{MAR}: Matching-Augmented Reasoning for Enhancing Visual-based Entity Question Answering},
 author={Zhang, Zhengxuan and Wu, Yin and Luo, Yuyu and Tang, Nan},
-booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
-year={2024},
-url={https://openreview.net/forum?id=hW9DjJLLkJ}
+booktitle ={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},
+url={https://aclanthology.org/2024.emnlp-main.91},
+pages={1520--1530}
 }
 ```
